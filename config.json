@@ -1,0 +1,8 @@
+{
+  "status_storage_file": "./data/login_status/itchat.pkl",
+  "contacts_storage_file": "./data/contacts.json",
+  "update_contacts": false,
+  "chat_with": [
+    { "nickname": "Baoming Yu" }
+  ]
+}
